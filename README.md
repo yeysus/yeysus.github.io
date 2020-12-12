@@ -18,7 +18,7 @@ I currently work at **Bayer** in _Berlin_ at the `R&D Open Innovation Stranger T
 `Cfhsdad`
 `
 
-[Link](https://www.bayer.com) and ![Image](tree.png)
+[Bayer](https://www.bayer.com) and ![Image](tree.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
