@@ -13,14 +13,13 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 
 I currently work at **Bayer** in _Berlin_ at the `R&D Open Innovation Stranger Things` department.
 
-`
-Code 1
-iiadsdjhasd o
-Cfhsdad
+`Code 1`
+`iiadsdjhasd o`
+`Cfhsdad`
 `
 
-[Link](url) and ![Image](src)
-```
+[Link](https://www.bayer.com) and ![Image](https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.teamred.at%2Fassets%2Flayout%2FTEAM-RED-BELFOR.png&imgrefurl=http%3A%2F%2Fwww.teamred.at%2F&tbnid=Tl9U1P4uv1da8M&vet=12ahUKEwi-_reM8cjtAhVGy6QKHQ-VBMsQMygBegUIARCrAQ..i&docid=0tJAvy4oNySKYM&w=164&h=164&q=team%20red&client=safari&ved=2ahUKEwi-_reM8cjtAhVGy6QKHQ-VBMsQMygBegUIARCrAQ)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
