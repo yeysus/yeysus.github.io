@@ -42,7 +42,9 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 ### TeamRed Team Members
 
 - [Fabiola Fajardo](https://fabyff.github.io)
+- [Karin Müller](https://karinkm.github.io)
 - [Kiliana Suzart-Woischnik](https://ksuzart.github.io)
+- [Marjorie Gómez](https://yosoymayonesa.github.io)
 
 ### Useful Links for GitHub Pages
 
