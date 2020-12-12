@@ -2,9 +2,6 @@
 
 We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kiliana The Killer.
 
-```markdown
-Syntax highlighted code block
-
 # Header 1 example
 ## Header 2 example 
 ### Header 3 example
