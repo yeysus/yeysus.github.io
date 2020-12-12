@@ -16,10 +16,10 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 2. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
 3. hackPHS, Princeton High School, [Web](https://hackphs.tech), [Twitter](https://twitter.com/theHackPhs)
 4. MIT Beat the Pandemic I, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic/), [Twitter](https://twitter.com/MITvsCOVID19)
-5. MIT Beat the Pandemic II, Massachusetts Institute of Technology, https://covid19challenge.mit.edu/beat-the-pandemic-2/, https://twitter.com/MITvsCOVID19
-6. MIT Latin America vs. Covid-19, Massachusetts Institute of Technology, https://covid19challenge.mit.edu/latam-vs-covid19/, https://twitter.com/MITvsCOVID19
-7. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, https://hackingracism.mit.edu, https://twitter.com/MITHackRacism
-8. YHack, Yale University, https://www.yhack.org, https://twitter.com/YaleHack
+5. MIT Beat the Pandemic II, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic-2/), [Twitter](https://twitter.com/MITvsCOVID19)
+6. MIT Latin America vs. Covid-19, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/latam-vs-covid19/), [Twitter](https://twitter.com/MITvsCOVID19)
+7. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, [Web](https://hackingracism.mit.edu), [Twitter](https://twitter.com/MITHackRacism)
+8. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
 
 ### 23andMe
 
