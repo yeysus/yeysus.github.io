@@ -1,27 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to my Page
 
-You can use the [editor on GitHub](https://github.com/yeysus/yeysus.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files. And here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kiliana The Killer.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kiliana The Killer.
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Header 1 example
+## Header 2 example 
+### Header 3 example
 
-- Bulleted
-- List
+Departments I have worked
+- Marketing
+- IT
+- R&D
 
-1. Numbered
-2. List
+Hackathons
+1. MIT
+2. Duke
 
-**Bold** and _Italic_ and `Code` text
+I currently work at **Bayer** in _Berlin_ at the `R&D Open Innovation Stranger Things` department.
 
 [Link](url) and ![Image](src)
 ```
