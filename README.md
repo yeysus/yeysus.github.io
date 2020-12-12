@@ -4,7 +4,7 @@ I currently work at ** [Bayer](https://www.bayer.com) ** in _Berlin_ at the `R&D
 
 We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kiliana The Killer.
 
-## Departments I have worked over the years
+## Departments
 
 - R&D
 - Marketing
@@ -12,14 +12,20 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 
 ### Hackathons
 
-1. MIT
-2. Duke
+1. Hack Cambridge, Cambridge University, https://hackcambridge.com, https://twitter.com/Hack_Cambridge
+2. HackDuke, Duke University, https://hackduke.org, https://twitter.com/HackDuke
+3. hackPHS, Princeton High School, https://hackphs.tech, https://twitter.com/theHackPhs
+4. MIT Beat the Pandemic I, Massachusetts Institute of Technology, https://covid19challenge.mit.edu/beat-the-pandemic/, https://twitter.com/MITvsCOVID19
+5. MIT Beat the Pandemic II, Massachusetts Institute of Technology, https://covid19challenge.mit.edu/beat-the-pandemic-2/, https://twitter.com/MITvsCOVID19
+6. MIT Latin America vs. Covid-19, Massachusetts Institute of Technology, https://covid19challenge.mit.edu/latam-vs-covid19/, https://twitter.com/MITvsCOVID19
+7. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, https://hackingracism.mit.edu, https://twitter.com/MITHackRacism
+8. YHack, Yale University, https://www.yhack.org, https://twitter.com/YaleHack
 
 ### 23andMe
 
 ![23andMe](images/tree.png)
 
-### My Social Links
+### Social Links
 
 - [GitLab](https://gitlab.com/yeysus)
 - [Bitbucket](https://bitbucket.org/yeysus/)
