@@ -39,9 +39,9 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 - [YouTube](https://www.youtube.com/channel/UC2suGh_JaOFOUMs3gg1iIXA)
 - [SoundCloud](https://soundcloud.com/yeysus)
 
-### TeamRed Team Members
+### AcceleRed Team Members
 
-| Member | GitHub | LinkedIn | Twitter |
+| AcceleRed | GitHub | LinkedIn | Twitter |
 | --- | --- | --- | --- |
 | Fabiola Fajardo | [FabyFF](https://fabyff.github.io) | [FabiolaFajardoFregoso](https://www.linkedin.com/in/fabiola-fajardo-fregoso-74432a19/) | [DagnySande](https://twitter.com/dagnysande) |
 | Karin Müller | [KarinKM](https://karinkm.github.io) | [KarinMüller](https://www.linkedin.com/in/karin-müller-078a201a3/) | [KYepitsme](https://twitter.com/KYepitsme) |
