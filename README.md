@@ -15,7 +15,7 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 
 I currently work at ** [Bayer](https://www.bayer.com) ** in _Berlin_ at the `R&D Open Innovation Stranger Things` department.
 
-![Image](tree.png)
+![Image](images/tree.png)
 
 ### Links
 
