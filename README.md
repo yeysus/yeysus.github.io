@@ -41,10 +41,12 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 
 ### TeamRed Team Members
 
-- [Fabiola Fajardo](https://fabyff.github.io)
-- [Karin Müller](https://karinkm.github.io)
-- [Kiliana Suzart-Woischnik](https://ksuzart.github.io)
-- [Marjorie Gómez](https://yosoymayonesa.github.io)
+| Member | GitHub | LinkedIn | Twitter |
+| --- | --- | --- | --- |
+| Fabiola Fajardo | [FabyFF](https://fabyff.github.io) | [FabiolaFajardoFregoso](https://www.linkedin.com/in/fabiola-fajardo-fregoso-74432a19/) | [DagnySande](https://twitter.com/dagnysande) |
+| Karin Müller | [KarinKM](https://karinkm.github.io) | [KarinMüller](https://www.linkedin.com/in/karin-müller-078a201a3/) | [KYepitsme](https://twitter.com/KYepitsme) |
+| Kiliana Suzart-Woischnik | [KSuzart](https://ksuzart.github.io) | [KilianaSuzartWoischnik](https://www.linkedin.com/in/kiliana-suzart-woischnik-b4353a66/) | [SuzartK](https://twitter.com/suzartk?lang=en) |
+| Marjorie Gómez | [YoSoyMayonesa](https://yosoymayonesa.github.io) | [MarjorieGomezB](https://www.linkedin.com/in/marjorie-gomez-mgb/) | [YoSoyMayonesa](https://twitter.com/YoSoyMayonesa) |
 
 ### Useful Links for GitHub Pages
 
