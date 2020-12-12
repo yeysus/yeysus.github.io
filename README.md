@@ -1,5 +1,7 @@
 # Jesus del Valle
 
+I currently work at ** [Bayer](https://www.bayer.com) ** in _Berlin_ at the `R&D Open Innovation Stranger Things` department. 
+
 We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kiliana The Killer.
 
 ## Departments I have worked over the years
@@ -8,16 +10,16 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 - Marketing
 - IT
 
-## Hackathons
+### Hackathons
 
 1. MIT
 2. Duke
 
-I currently work at ** [Bayer](https://www.bayer.com) ** in _Berlin_ at the `R&D Open Innovation Stranger Things` department.
+### 23andMe
 
-![Image](images/tree.png)
+![23andMe](images/tree.png)
 
-### Links
+### My Social Links
 
 - [GitLab](https://gitlab.com/yeysus)
 - [Bitbucket](https://bitbucket.org/yeysus/)
@@ -36,6 +38,11 @@ I currently work at ** [Bayer](https://www.bayer.com) ** in _Berlin_ at the `R&D
 - [Instagram](https://www.instagram.com/jesusdelvaller/)
 - [YouTube](https://www.youtube.com/channel/UC2suGh_JaOFOUMs3gg1iIXA)
 - [SoundCloud](https://soundcloud.com/yeysus)
+
+### TeamRed Team Members
+
+- [Fabiola Fajardo](https://fabyff.github.io)
+- [Kiliana Suzart-Woischnik](https://ksuzart.github.io)
 
 ### Useful Links for GitHub Pages
 
