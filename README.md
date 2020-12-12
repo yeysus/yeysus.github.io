@@ -13,14 +13,14 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 1. MIT
 2. Duke
 
-I currently work at ** [Bayer] (https://www.bayer.com) ** in _Berlin_ at the `R&D Open Innovation Stranger Things` department.
+I currently work at ** [Bayer](https://www.bayer.com) ** in _Berlin_ at the `R&D Open Innovation Stranger Things` department.
 
 ![Image](tree.png)
 
 ### Links
 
-- [GitLab] (https://gitlab.com/yeysus)
-- [Bitbucket] (https://bitbucket.org/yeysus/)
+- [GitLab](https://gitlab.com/yeysus)
+- [Bitbucket](https://bitbucket.org/yeysus/)
 - [Stack Overflow] (https://stackexchange.com/users/9531598/jesus-del-valle)
 - [ResearchGate] (https://www.researchgate.net/profile/Jesus_Del_Valle)
 - [ORCID] (https://orcid.org/0000-0001-5998-6298)
