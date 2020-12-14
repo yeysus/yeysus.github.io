@@ -1,8 +1,6 @@
 # Jesus del Valle
 
-I currently work at **[Bayer](https://www.bayer.com)** in _Berlin_ at the `R&D Open Innovation Stranger Things` department. 
-
-We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kiliana The Killer.
+Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Diploma / Master) from the Technical University of Dresden, obtained his PhD in Biology at the Max Planck Institute / Free University in Berlin, and has worked in Life Sciences for more than 20 years. At Bayer he started working in IT in R&D and M&S roles, and currently leads the Stranger Things Team at Bayer Pharmaceuticals R&D Open Innovation. He founded the Bayer Grants4Apps / G4A open innovation initiative in 2013, first startups accelerator in Europe, which has since evolved into a digital health for life sciences accelerator and coworking program with locations in multiple countries. He founded the global STEM4Health community, https://www.meetup.com/pro/stem4health/, now with 15,000+ members, to foster networking between all stakeholders in the healthcare industry. Jesus also co-founded AcceleRed, a company building project. AcceleRed is among other initiatives co-organizing Hackathons online and have been volunteering as Co-organizers, Mentors, Judges, in different Hackathons, Universities of Yale, Cambridge (UK), MIT, Duke, Princeton HighSchool, others. One of his passions is to bring together the startups’ culture and technological knowledge with Bayer’s experience. Twitter: https://twitter.com/yeysus. LinkedIn: https://www.linkedin.com/in/yeysus/.
 
 ## Departments
 
@@ -22,6 +20,8 @@ We are Team Read. Here we go with KarinKM, MarjoriePoG, Fabiola The CoG, and Kil
 8. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
 
 ### 23andMe
+
+Human genetics is a theme that fascinates me. I have tested myself and 7 members of my family using the 23andMe kit, which I consider by far the most valuable resource for "getting to know myself" out there.
 
 ![23andMe](images/tree.png)
 
