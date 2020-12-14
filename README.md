@@ -8,7 +8,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 - Marketing
 - IT
 
-### Hackathons
+## Hackathons
 
 1. Hack Cambridge, Cambridge University, [Web](https://hackcambridge.com), [Twitter](https://twitter.com/Hack_Cambridge)
 2. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
@@ -19,13 +19,13 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 7. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, [Web](https://hackingracism.mit.edu), [Twitter](https://twitter.com/MITHackRacism)
 8. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
 
-### 23andMe
+## 23andMe
 
 Human genetics is a theme that fascinates me. I have tested myself and 7 members of my family using the 23andMe kit, which I consider by far the most valuable resource for "getting to know myself" out there.
 
 ![23andMe](images/tree.png)
 
-### Social Links
+## Social Links
 
 - [GitLab](https://gitlab.com/yeysus)
 - [Bitbucket](https://bitbucket.org/yeysus/)
@@ -45,7 +45,7 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 - [YouTube](https://www.youtube.com/channel/UC2suGh_JaOFOUMs3gg1iIXA)
 - [SoundCloud](https://soundcloud.com/yeysus)
 
-### AcceleRed Team Members
+## AcceleRed Team Members
 
 | AcceleRed | GitHub | LinkedIn | Twitter |
 | --- | --- | --- | --- |
@@ -55,7 +55,7 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 | Marjorie Gómez | [YoSoyMayonesa](https://yosoymayonesa.github.io) | [MarjorieGomezB](https://www.linkedin.com/in/marjorie-gomez-mgb/) | [YoSoyMayonesa](https://twitter.com/YoSoyMayonesa) |
 | Tatjana Gust | | [TatjanaGust](https://www.linkedin.com/in/tatjana-gust-4b7a0299/) ||
 
-### Useful Links for GitHub Pages
+## Useful Links for GitHub Pages
 
 - [GitHub Pages Documentation](https://docs.github.com/categories/github-pages-basics/)
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
