@@ -53,6 +53,7 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 | Karin Müller | [KarinKM](https://karinkm.github.io) | [KarinMüller](https://www.linkedin.com/in/karin-müller-078a201a3/) | [KYepitsme](https://twitter.com/KYepitsme) |
 | Kiliana Suzart-Woischnik | [KSuzart](https://ksuzart.github.io) | [KilianaSuzartWoischnik](https://www.linkedin.com/in/kiliana-suzart-woischnik-b4353a66/) | [SuzartK](https://twitter.com/suzartk?lang=en) |
 | Marjorie Gómez | [YoSoyMayonesa](https://yosoymayonesa.github.io) | [MarjorieGomezB](https://www.linkedin.com/in/marjorie-gomez-mgb/) | [YoSoyMayonesa](https://twitter.com/YoSoyMayonesa) |
+| Tatjana Gust | | [TatjanaGust](https://www.linkedin.com/in/tatjana-gust-4b7a0299/) ||
 
 ### Useful Links for GitHub Pages
 
