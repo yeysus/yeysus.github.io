@@ -24,7 +24,6 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 Human genetics is a theme that fascinates me. I have tested myself and 7 members of my family using the 23andMe kit, which I consider by far the most valuable resource for "getting to know myself" out there.
 
 ![23andMe](images/tree.png)
-![**Julia Maria**](WordPress_Julia_Maria_Blog.png)
 
 ## Social Links
 
