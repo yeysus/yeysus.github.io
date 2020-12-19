@@ -25,6 +25,10 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 
 ![23andMe](images/tree.png)
 
+## WebRTC
+
+Read about what I have found regarding WebRTC compatibility [here](./webrtc.html).
+
 ## Social Links
 
 - [GitLab](https://gitlab.com/yeysus)
