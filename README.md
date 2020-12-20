@@ -8,7 +8,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 - Marketing
 - IT
 
-## Hackathons
+## Hackathons I have participated
 
 1. Hack Cambridge, Cambridge University, [Web](https://hackcambridge.com), [Twitter](https://twitter.com/Hack_Cambridge)
 2. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
@@ -28,6 +28,10 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 ## WebRTC
 
 Read about what I have found regarding WebRTC compatibility [here](./webrtc.html).
+
+## Where to buy Hardware stuff (Note to myself)
+
+- Pololu [Web](https://www.pololu.com)
 
 ## Social Links
 
