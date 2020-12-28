@@ -30,15 +30,21 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 
 Read about what I have found regarding WebRTC compatibility [here](./webrtc.html).
 
-## Where to buy Hardware / Consumer Electronics stuff (Note to myself)
+## Where to buy Hardware / Consumer Electronics stuff
 
 - 96 Boards [Web](https://www.96boards.org/products/ce/)
 - Adafruit [Web](https://www.adafruit.com)
+- Antratek [Web](https://www.antratek.de/)
+- Arrow [Web](https://www.arrow.com), Resellers from Google's Coral
+- BerryBase [Web](https://www.berrybase.de), Berlin
 - conrad [Web](https://www.conrad.de)
+- Mouser [Web](https://www.mouser.de), Resellers from Google's Coral
+- Paradisetronic [Web](https://paradisetronic.com), Berlin
 - Pimoroni [Web](https://shop.pimoroni.com)
 - Pollin [Web](https://www.pollin.de)
 - Pololu [Web](https://www.pololu.com)
 - reichelt [Web](https://www.reichelt.de)
+- Seeed [Web](https://www.seeedstudio.com/), Resellers from Google's Coral
 
 ## Social Links
 
