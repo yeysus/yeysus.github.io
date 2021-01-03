@@ -18,13 +18,19 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 6. MIT Beat the Pandemic II, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic-2/), [Twitter](https://twitter.com/MITvsCOVID19)
 7. MIT Latin America vs. Covid-19, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/latam-vs-covid19/), [Twitter](https://twitter.com/MITvsCOVID19)
 8. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, [Web](https://hackingracism.mit.edu), [Twitter](https://twitter.com/MITHackRacism)
-9. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
+9. nwHacks, University of British Columbia, [Web](https://www.nwhacks.io), [Twitter](https://twitter.com/nwplusubc)
+10. PatriotHacks, George Mason University, [Web](https://patriothacks.org/), [Twitter](https://twitter.com/patriothacks)
+11. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
 
 ## 23andMe
 
 Human genetics is a theme that fascinates me. I have tested myself and 7 members of my family using the 23andMe kit, which I consider by far the most valuable resource for "getting to know myself" out there.
 
 ![23andMe](images/tree.png)
+
+## Flutter
+
+Personal notes of working with Flutter are [here](./flutter.md)
 
 ## WebRTC
 
