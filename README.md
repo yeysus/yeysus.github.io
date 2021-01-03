@@ -30,7 +30,7 @@ Human genetics is a theme that fascinates me. I have tested myself and 7 members
 
 ## Flutter
 
-Personal notes of working with Flutter are [here](./flutter.md)
+Personal notes of working with Flutter are [here](./flutter.md).
 
 ## WebRTC
 
