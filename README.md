@@ -12,16 +12,18 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 
 1. CruzHacks, University of California Santa Cruz, [Web](https://www.cruzhacks.com), [Twitter](https://twitter.com/CruzHacks)
 2. Hack Cambridge, Cambridge University, [Web](https://hackcambridge.com), [Twitter](https://twitter.com/Hack_Cambridge)
-3. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
-4. hackPHS, Princeton High School, [Web](https://hackphs.tech), [Twitter](https://twitter.com/theHackPhs)
-5. HackUMass, University of Massachusetts, [Web](https://hackumass.com), [Twitter](https://twitter.com/hackumass)
-6. MIT Beat the Pandemic I, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic/), [Twitter](https://twitter.com/MITvsCOVID19)
-7. MIT Beat the Pandemic II, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic-2/), [Twitter](https://twitter.com/MITvsCOVID19)
-8. MIT Latin America vs. Covid-19, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/latam-vs-covid19/), [Twitter](https://twitter.com/MITvsCOVID19)
-9. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, [Web](https://hackingracism.mit.edu), [Twitter](https://twitter.com/MITHackRacism)
-10. nwHacks, University of British Columbia, [Web](https://www.nwhacks.io), [Twitter](https://twitter.com/nwplusubc)
-11. PatriotHacks, George Mason University, [Web](https://patriothacks.org/), [Twitter](https://twitter.com/patriothacks)
-12. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
+3. Hack The North, University of Waterloo, [Web](https://hackthenorth.com), [Twitter](https://twitter.com/HackTheNorth)
+4. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
+5. hackPHS, Princeton High School, [Web](https://hackphs.tech), [Twitter](https://twitter.com/theHackPhs)
+6. HackUMass, University of Massachusetts, [Web](https://hackumass.com), [Twitter](https://twitter.com/hackumass)
+7. MIT Beat the Pandemic I, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic/), [Twitter](https://twitter.com/MITvsCOVID19)
+8. MIT Beat the Pandemic II, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic-2/), [Twitter](https://twitter.com/MITvsCOVID19)
+9. MIT Latin America vs. Covid-19, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/latam-vs-covid19/), [Twitter](https://twitter.com/MITvsCOVID19)
+10. MIT Hacking Racism in Healthcare, Massachusetts Institute of Technology, [Web](https://hackingracism.mit.edu), [Twitter](https://twitter.com/MITHackRacism)
+11. nwHacks, University of British Columbia, [Web](https://www.nwhacks.io), [Twitter](https://twitter.com/nwplusubc)
+12. PatriotHacks, George Mason University, [Web](https://patriothacks.org/), [Twitter](https://twitter.com/patriothacks)
+13. SB Hacks, University of California Santa Barbara, [Web](https://sbhacks.com), [Twitter](https://twitter.com/SB_Hacks)
+14. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
 
 ## 23andMe
 
