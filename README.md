@@ -10,7 +10,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 
 ## Hackathons I have participated
 
-1. CruzHacks, University of California Santa Cruz, [Web](https://www.cruzhacks.com), [Twitter](hhttps://twitter.com/CruzHacks)
+1. CruzHacks, University of California Santa Cruz, [Web](https://www.cruzhacks.com), [Twitter](https://twitter.com/CruzHacks)
 2. Hack Cambridge, Cambridge University, [Web](https://hackcambridge.com), [Twitter](https://twitter.com/Hack_Cambridge)
 3. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
 4. hackPHS, Princeton High School, [Web](https://hackphs.tech), [Twitter](https://twitter.com/theHackPhs)
