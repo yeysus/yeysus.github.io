@@ -8,7 +8,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 - Marketing
 - IT
 
-## Hackathons I have participated
+## Volunteering at Hackathons
 
 1. CruzHacks, University of California Santa Cruz, [Web](https://www.cruzhacks.com), [Twitter](https://twitter.com/CruzHacks)
 2. CUNY Hackathon, The City University of New York, [Web](https://cunystartups.com/hackathon21/)
