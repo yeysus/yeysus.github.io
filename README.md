@@ -91,9 +91,4 @@ Read about what I have found regarding WebRTC compatibility [here](./webrtc.html
 | Marjorie Gómez | [YoSoyMayonesa](https://yosoymayonesa.github.io) | [MarjorieGomezB](https://www.linkedin.com/in/marjorie-gomez-mgb/) | [YoSoyMayonesa](https://twitter.com/YoSoyMayonesa) |
 | Tatjana Gust | | [TatjanaGust](https://www.linkedin.com/in/tatjana-gust-4b7a0299/) ||
 
-## Useful Links for GitHub Pages
-
-- [GitHub Pages Documentation](https://docs.github.com/categories/github-pages-basics/)
-- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-- [Repository settings](https://github.com/yeysus/yeysus.github.io/settings)
 
