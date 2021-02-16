@@ -97,4 +97,4 @@ Read about what I have found regarding WebRTC compatibility [here](./webrtc.html
 
 ## HackSciTech
 
-Get ready for a Biotech Hackathon [here](./hacksciteck/index.html).
+Get ready for a Biotech Hackathon [here](./hackscitech/index.html).
