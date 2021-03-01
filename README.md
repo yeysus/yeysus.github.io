@@ -10,10 +10,10 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 
 ## Volunteering at Hackathons
 
-1. CruzHacks, University of California Santa Cruz, [Web](https://www.cruzhacks.com), [Twitter](https://twitter.com/CruzHacks)
-2. CUNY Hackathon, The City University of New York, [Web](https://cunystartups.com/hackathon21/)
-3. Hack Health, Stony Brook University, [Web](https://www3.cs.stonybrook.edu/~wics/hackhealth/)
-4. Hex Cambridge, Cambridge University, [Web](https://hackcambridge.com), [Twitter](https://twitter.com/Hack_Cambridge)
+1. CruzHacks, University of California Santa Cruz, [Web](https://www.cruzhacks.com), [Twitter](https://twitter.com/CruzHacks), [Devpost](https://cruzhacks-2021.devpost.com/)
+2. CUNY Hackathon, The City University of New York, [Web](https://cunystartups.com/hackathon21/), [Devpost](https://the-cuny-hackathon-2021.devpost.com/)
+3. Hack Health, Stony Brook University, [Web](https://www3.cs.stonybrook.edu/~wics/hackhealth/), [Devpost](https://hackhealth-2021.devpost.com/)
+4. Hex Cambridge, Cambridge University, [Web](https://hackcambridge.com), [Twitter](https://twitter.com/Hack_Cambridge), [Devpost](https://hex-cambridge.devpost.com/)
 5. Hack The North, University of Waterloo, [Web](https://hackthenorth.com), [Twitter](https://twitter.com/HackTheNorth)
 6. HackDuke, Duke University, [Web](https://hackduke.org), [Twitter](https://twitter.com/HackDuke)
 7. hackPHS, Princeton High School, [Web](https://hackphs.tech), [Twitter](https://twitter.com/theHackPhs)
