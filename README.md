@@ -21,7 +21,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 9. HackUMass, University of Massachusetts, [Web](https://hackumass.com), [Twitter](https://twitter.com/hackumass)
 10. HackUTD, University of Texas at Dallas, [Web](https://www.hackutd.co/), [Twitter](https://twitter.com/hackutd), [Devpost](https://hackutd-vii.devpost.com/)
 11. ISPE Hackathon, International Society for Pharmaceutical Engineering, [Web](https://ispe.org/conferences/ispe-student-recent-graduate-international-virtual-hackathon)
-12. MakeHarvard, Harvard University, [Web](https://www.makeharvard.io/), [Twitter](https://twitter.com/makeharvard)
+12. MakeHarvard, Harvard University, [Web](https://www.makeharvard.io/), [Twitter](https://twitter.com/makeharvard), [Devpost](https://makeharvard-2021.devpost.com/)
 13. MIT Beat the Pandemic I, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic/), [Twitter](https://twitter.com/MITvsCOVID19)
 14. MIT Beat the Pandemic II, Massachusetts Institute of Technology, [Web](https://covid19challenge.mit.edu/beat-the-pandemic-2/), [Twitter](https://twitter.com/MITvsCOVID19)
 15. MIT Building for Digital Health, Massachusetts Institute of Technology, [Web](https://hackingmedicine.mit.edu/building-for-digital-health/), [Twitter](https://twitter.com/mithackmed)
@@ -32,12 +32,12 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 20. SB Hacks, University of California Santa Barbara, [Web](https://sbhacks.com), [Twitter](https://twitter.com/SB_Hacks)
 21. SDHacks, University of California San Diego, [Web](http://www.sdhacks.io/), [Twitter](https://twitter.com/SDHacks)
 22. SteelHacks, University of Pittsburgh, [Web](https://steelhacks.com), [Twitter](https://twitter.com/pittsteelhacks), [Devpost](https://steelhacks-2021.devpost.com/)
-23. SwampHacks, University of Florida, [Web](https://2021.swamphacks.com), [Twitter](https://twitter.com/swamphacks)
-24. TAMUhack, Texas A&M University, [Web](https://tamuhack.com), [Twitter](https://twitter.com/tamuhack)
-25. TreeHacks, Stanford University, [web](https://treehacks.com/), [Twitter](https://twitter.com/hackwithtrees)
-26. UGAHacks, University of Georgia, [Web](https://6.ugahacks.com/), [Twitter](https://twitter.com/ugahacks)
-27. Yale CBIT Health Hackathon, Yale University, [Web](http://yalehackhealth.org), [Twitter](https://twitter.com/YaleHackHealth)
-28. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack)
+23. SwampHacks, University of Florida, [Web](https://2021.swamphacks.com), [Twitter](https://twitter.com/swamphacks), [Devpost](https://swamphacks-vii.devpost.com/)
+24. TAMUhack, Texas A&M University, [Web](https://tamuhack.com), [Twitter](https://twitter.com/tamuhack), [Devpost](https://tamuhack2021.devpost.com/)
+25. TreeHacks, Stanford University, [web](https://treehacks.com/), [Twitter](https://twitter.com/hackwithtrees), [Devpost](https://treehacks-2021.devpost.com/)
+26. UGAHacks, University of Georgia, [Web](https://6.ugahacks.com/), [Twitter](https://twitter.com/ugahacks), [Devpost](https://ugahacks-6.devpost.com/)
+27. Yale CBIT Health Hackathon, Yale University, [Web](http://yalehackhealth.org), [Twitter](https://twitter.com/YaleHackHealth), [Devpost](https://yale-hack-health.devpost.com/)
+28. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack), [Devpost](https://yhack2020.devpost.com/)
 
 ## 23andMe
 
