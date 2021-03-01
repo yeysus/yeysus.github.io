@@ -31,7 +31,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 19. PatriotHacks, George Mason University, [Web](https://patriothacks.org/), [Twitter](https://twitter.com/patriothacks)
 20. SB Hacks, University of California Santa Barbara, [Web](https://sbhacks.com), [Twitter](https://twitter.com/SB_Hacks)
 21. SDHacks, University of California San Diego, [Web](http://www.sdhacks.io/), [Twitter](https://twitter.com/SDHacks)
-22. SteelHacks, University of Pittsburgh, [Web](https://steelhacks.com), [Twitter](https://twitter.com/pittsteelhacks)
+22. SteelHacks, University of Pittsburgh, [Web](https://steelhacks.com), [Twitter](https://twitter.com/pittsteelhacks), [Devpost](https://steelhacks-2021.devpost.com/)
 23. SwampHacks, University of Florida, [Web](https://2021.swamphacks.com), [Twitter](https://twitter.com/swamphacks)
 24. TAMUhack, Texas A&M University, [Web](https://tamuhack.com), [Twitter](https://twitter.com/tamuhack)
 25. TreeHacks, Stanford University, [web](https://treehacks.com/), [Twitter](https://twitter.com/hackwithtrees)
