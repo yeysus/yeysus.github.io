@@ -39,6 +39,8 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 27. Yale CBIT Health Hackathon, Yale University, [Web](http://yalehackhealth.org), [Twitter](https://twitter.com/YaleHackHealth), [Devpost](https://yale-hack-health.devpost.com/)
 28. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack), [Devpost](https://yhack2020.devpost.com/)
 
+View in a Map [here](./hackathons_map.html).
+
 ## 23andMe
 
 Human genetics is a theme that fascinates me. I have tested myself and 7 members of my family using the 23andMe kit, which I consider by far the most valuable resource for "getting to know myself" out there.
