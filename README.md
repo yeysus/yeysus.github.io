@@ -37,7 +37,7 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 25. SwampHacks, University of Florida, [Web](https://2021.swamphacks.com), [Twitter](https://twitter.com/swamphacks), [Devpost](https://swamphacks-vii.devpost.com/)
 26. TAMUhack, Texas A&M University, [Web](https://tamuhack.com), [Twitter](https://twitter.com/tamuhack), [Devpost](https://tamuhack2021.devpost.com/)
 27. TartanHacks, Carnegie Mellon University, [Web](https://tartanhacks.com/), [Twitter](https://twitter.com/TartanHacks), [Devpost](https://tartanhacks-2021.devpost.com/)
-28. TreeHacks, Stanford University, [web](https://treehacks.com/), [Twitter](https://twitter.com/hackwithtrees), [Devpost](https://treehacks-2021.devpost.com/)
+28. TreeHacks, Stanford University, [Web](https://treehacks.com/), [Twitter](https://twitter.com/hackwithtrees), [Devpost](https://treehacks-2021.devpost.com/)
 29. UGAHacks, University of Georgia, [Web](https://6.ugahacks.com/), [Twitter](https://twitter.com/ugahacks), [Devpost](https://ugahacks-6.devpost.com/)
 30. Yale CBIT Health Hackathon, Yale University, [Web](http://yalehackhealth.org), [Twitter](https://twitter.com/YaleHackHealth), [Devpost](https://yale-hack-health.devpost.com/)
 31. YHack, Yale University, [Web](https://www.yhack.org), [Twitter](https://twitter.com/YaleHack), [Devpost](https://yhack2020.devpost.com/)
