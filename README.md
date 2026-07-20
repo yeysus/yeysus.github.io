@@ -48,6 +48,10 @@ Jesus del Valle is originally from Havana, Cuba. He graduated as a Physicist (Di
 
 View in a Map [here](./hackathons_map.html).
 
+## Posts about Vibe Coding Hackathons I co-organized
+
+
+
 ## 23andMe
 
 Human genetics is a theme that fascinates me. I have tested myself and 7 members of my family using the 23andMe kit, which I consider by far the most valuable resource for "getting to know myself" out there.
@@ -108,6 +112,3 @@ Read about what I have found regarding WebRTC compatibility [here](./webrtc.html
 | Marjorie Gómez | [YoSoyMayonesa](https://yosoymayonesa.github.io) | [MarjorieGomezB](https://www.linkedin.com/in/marjorie-gomez-mgb/) | [YoSoyMayonesa](https://twitter.com/YoSoyMayonesa) |
 | Tatjana Gust | | [TatjanaGust](https://www.linkedin.com/in/tatjana-gust-4b7a0299/) ||
 
-## HackSciTech
-
-Get ready for a Biotech Hackathon [here](./hackscitech/index.html).
